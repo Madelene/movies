@@ -225,7 +225,8 @@ EMAIL_BACKEND = env('DJANGO_EMAIL_BACKEND', default='django.core.mail.backends.s
 ADMIN_URL = 'admin/'
 # https://docs.djangoproject.com/en/dev/ref/settings/#admins
 ADMINS = [
-    ("""Madelene Campos and Susan Davies""", 'madelenecampos@gmail.com'),
+    ('Madelene Campos', 'madelenecampos@gmail.com'),
+    ('Susan Davies', 'sdav9375@gmail.com'),
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#managers
 MANAGERS = ADMINS

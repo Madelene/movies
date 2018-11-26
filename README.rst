@@ -1,7 +1,7 @@
 Movies I've Seen
 ================
 
-The idea is to build an app so simply, even my mom can use it
+The idea is to build an app so simple, even my mom can use it
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
      :target: https://github.com/pydanny/cookiecutter-django/

@@ -276,3 +276,5 @@ movies_seen/media/
 .env
 .envs/*
 !.envs/.local/
+
+newenv/
